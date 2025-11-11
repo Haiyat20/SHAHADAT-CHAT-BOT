@@ -5,7 +5,7 @@
   "DeveloperMode": false,
   "autoCreateDB": true,
   "autoClean": true,
-  "allowInbox": false,
+  "allowInbox": true,
   "notiGroup": true,
   "NOTIFICATION": true,
   "EMAIL": "your email",
@@ -16,9 +16,9 @@
   "reactUnsend": ["😡", "🤧", "😤", "😠"],
 
   "ADMINBOT": [
-    "100001039692046",
-    "100001039692046",
-    "100001039692046"
+    "61560364875799",
+    "",
+    ""
   ],
   "NDH": ["100001039692046"],
   "adminOnly": false,
